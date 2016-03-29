@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.C
     private TextView txtOutput;
     private GoogleApiClient mGoogleApiClient;
     private LocationRequest mLocationRequest;
+    //test
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
